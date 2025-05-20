@@ -1,1 +1,5 @@
 */dep/python/*
+Backup/*
+*/Backup/*
+*venv
+__pycache__/
